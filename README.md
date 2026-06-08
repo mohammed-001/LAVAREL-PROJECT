@@ -1,15 +1,24 @@
-# LaravelProject
-
-Advanced Web Programming Project
+# TechStore E-Commerce Website
 
 ## Project Description
-This project is a simple web application developed using Laravel.
+
+TechStore is a simple e-commerce website developed for the Advanced Web Programming course.
 
 ## Features
-- User-friendly interface
-- Data management
-- CRUD operations
-- Responsive design
 
-## Development Status
-Project initialized.
+- Home page
+- Product catalog
+- Shopping cart
+- Product search
+- Product categories
+- Contact page
+
+## Technologies
+
+- HTML
+- CSS
+- GitHub
+
+## Status
+
+Project under development.

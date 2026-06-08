@@ -1,27 +1,24 @@
 # Project Plan
 
 ## Project Title
-Student Task Manager
+TechStore E-Commerce Website
 
 ## Objective
-Develop a web application that helps students manage their daily tasks.
+Develop a simple e-commerce website that allows users to browse products and view product details.
 
-## Planned Features
+## Features
 
-### Phase 1
-- Project setup
-- Basic project structure
-- Documentation
+- Home page
+- Product catalog
+- Product details page
+- Shopping cart page
+- Contact page
+- Search bar
+- Product categories
 
-### Phase 2
-- Create task model
-- Create task list page
+## Future Features
 
-### Phase 3
-- Add task creation form
-- Edit tasks
-- Delete tasks
-
-### Phase 4
-- Improve user interface
-- Testing and bug fixes
+- User login
+- Checkout system
+- Product filtering
+- Database integration
